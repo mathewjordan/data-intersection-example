@@ -1,0 +1,68 @@
+[
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/213f2874-afca-452d-9bf3-ef0fe85a81ae?as=iiif",
+    "people": ["Buzz Aldrin", "Neil Armstrong", "Mae Jemison"],
+    "lat": 41.88,
+    "long": -87.62
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/2826e1b9-d38c-413d-b46f-4cd28d916b6d?as=iiif",
+    "people": ["Yuri Gagarin"],
+    "lat": 41.89,
+    "long": -87.63
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/cdb547e9-d5c1-4c1a-9ca5-b3fad0da4915?as=iiif",
+    "people": ["Peggy Whitson"],
+    "lat": 41.9,
+    "long": -87.64
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/2839c516-b552-4792-af1f-efe8f5c3d4a7?as=iiif",
+    "people": ["Alan Shepard"],
+    "lat": 41.91,
+    "long": -87.65
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/d70b0a45-8b3c-4bbe-b40d-7a4ff0da6fed?as=iiif",
+    "people": ["Katherine Johnson", "Buzz Aldrin", "Guion Bluford"],
+    "lat": 41.92,
+    "long": -87.66
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/8a3a5657-a27a-4a1d-9283-3096b08f4c91?as=iiif",
+    "people": ["Neil Armstrong", "Peggy Whitson"],
+    "lat": 41.93,
+    "long": -87.67
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/02700dcb-3dd8-4344-a050-2f8316d99a28?as=iiif",
+    "people": ["Yuri Gagarin"],
+    "lat": 41.94,
+    "long": -87.68
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/b2ea19ef-f805-44d7-a29a-38f8de504906?as=iiif",
+    "people": ["Katherine Johnson"],
+    "lat": 41.95,
+    "long": -87.69
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/6dbeb83c-aaa4-4a67-83f8-79380544cc2b?as=iiif",
+    "people": ["Neil Armstrong", "Katherine Johnson", "Yuri Gagarin"],
+    "lat": 41.96,
+    "long": -87.7
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/38a171c8-668f-4148-8ed6-6bb669d0f46b?as=iiif",
+    "people": ["Alan Shepard", "Katherine Johnson", "John Glenn"],
+    "lat": 41.97,
+    "long": -87.71
+  },
+  {
+    "id": "https://api.dc.library.northwestern.edu/api/v2/works/3bcfccb2-8155-4e26-b5f9-da025dcc967d?as=iiif",
+    "people": ["Chris Hadfield"],
+    "lat": 41.98,
+    "long": -87.72
+  }
+]
